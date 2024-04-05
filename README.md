@@ -9,6 +9,7 @@
 ## Integrantes
 + Amanda
 + Davi - [Github](https://github.com/Davison003)
++ Davi de Andrade Pinto 
 + Eler
 + Guilherme
 + Lucas
