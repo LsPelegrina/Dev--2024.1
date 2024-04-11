@@ -7,12 +7,12 @@
 ## Projeto para disciplina de Desenvolvimento Ágil 2024.1
 
 ## Integrantes
-+ Amanda
++ Amanda - [Github](https://github.com/AmandaMouraCavalcante)
 + Davi - [Github](https://github.com/Davison003)
-+ Davi de Andrade Pinto 
-+ Eler
-+ Guilherme
-+ Lucas
++ Davi de Andrade Pinto - [Github](https://github.com/DavideAndradePinto)
++ Eler - [Github](https://github.com/ElerYudi)
++ Guilherme - [Github](https://github.com/GuilhermeRenato10)
++ Lucas - [Github](https://github.com/LsPelegrina)
 
 ## Descrição do Projeto
 
@@ -32,4 +32,5 @@ Inicialmente, estruture o documento README para conter as seguintes informaçõe
 <ul>
   <li><a href="Requisitos de Usuário/RF.md">Requisitos Funcionais</a></li>
   <li><a href="Requisitos de Usuário/RNF.md">Requisitos Não Funcionais</a></li>
+  <li><a href="Requisitos de Usuário/HistoriasUsuario.md">Historias de Usuário</a></li>
 </ul>
