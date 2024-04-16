@@ -4,12 +4,15 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder personalizar seu ambiente.              |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar o seu progresso no jogo.           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
+| RF01 |              O usuário deve poder criar uma conta.                        |  Alta      |    RF02     |
+| RF02 |           O usuário deve poder mudar suas informações pessoais.            |  Alta      |    RF01     |
+| RF03 |           O software deve listar restaurantes e quais opções de acessibilidade eles contêm. | Alta | - |
+| RF04 |          O software deve permitir que o usuário escolha entre diferentes regiões e locais de prefêrencia. | Média | - |
+| RF05 |         O usuário deve poder filtrar as opções de acessibilidade à seu critério. | Alta | RF03 |
+| RF06 |        O software deve permitir que usuários com deficiência visual usem TTS (Text-To-Speech). | Alta | - |
+| RF07 |       O software deve permitir que usuários adicionem informações sobre estabelecimentos. | Média | RF08 |
+| RF08 |       O usuário deve poder sugerir atualizações ou remoções de restaurantes. |  Média | RF07 | 
+
 
 
 <div style="text-align: center">
