@@ -76,6 +76,20 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF05</td>
         </tr>
+        <tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US06</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como administrador do sistema, desejo poder atualizar informações sobre restaurantes e suas opções de acessibilidade</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
+        <ol>
+            <li>Deve haver uma interface acessível para administradores no aplicativo.</li>
+            <li>Os administradores devem ter permissão para acessar e editar informações de restaurantes.</li>
+            <li>As opções de acessibilidade, como rampas de acesso, banheiros adaptados, entre outras, devem ser editáveis.</li>
+            <li>As alterações feitas pelos administradores devem ser refletidas imediatamente na plataforma.</li>
+        </ol>
+    </td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF06, RF07</td>
+</tr>
     </tbody>
 </table
 
