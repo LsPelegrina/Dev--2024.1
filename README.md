@@ -10,8 +10,6 @@
 + Amanda - [Github](https://github.com/AmandaMouraCavalcante)
 + Davi - [Github](https://github.com/Davison003)
 + Davi de Andrade Pinto - [Github](https://github.com/DavideAndradePinto)
-+ Eler - [Github](https://github.com/ElerYudi)
-+ Guilherme - [Github](https://github.com/GuilhermeRenato10)
 + Lucas - [Github](https://github.com/LsPelegrina)
 
 ## Descrição do Projeto
@@ -25,8 +23,8 @@ Inicialmente, estruture o documento README para conter as seguintes informaçõe
 
 - [x] DevMais (Grupo), logo...<br>
 - [x] Desenvolvimento ágil, 2024, primeiro semestre<br>
-- [ ] Nome dos integrantes do grupo, foto, link para a conta github<br>
-- [ ] Descrição do que é o projeto (objetivo, principais funcionalidades, público-alvo, etc)<br>
+- [x] Nome dos integrantes do grupo, foto, link para a conta github<br>
+- [x] Descrição do que é o projeto (objetivo, principais funcionalidades, público-alvo, etc)<br>
 - [ ] Documentos que serão encontrados no repositório (criaremos links para cada documento como se fosse um sumário). Por enquanto, deixem sem link: <br>
 
 <ul>
